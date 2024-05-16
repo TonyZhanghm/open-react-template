@@ -43,7 +43,7 @@ export default function RootLayout({
             <Header />
             <PostHogPageView /> 
             {children}
-            <Banner />
+            {/* <Banner /> */}
           </div>
         </body>
       </PHProvider>
